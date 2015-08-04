@@ -4,6 +4,7 @@ title:  "Hello Jekyll!"
 category: demo
 tags: [test, jekyll, hello]
 ---
+**网易彩票技术组超级Blog**
 
 # 测试 h1
 

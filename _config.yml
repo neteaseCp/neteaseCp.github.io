@@ -1,10 +1,10 @@
 # Site settings
-title: "Jekyll template"
-url: "//ihavee.github.io"
+title: "网易彩票技术博客"
+url: "//neteasecp.github.io/"
 highlighter: pygments
 paginate: 5
 author:
-    name: Havee
+    name: Netease Caipiao
     github:
     email:
     gitcafe:

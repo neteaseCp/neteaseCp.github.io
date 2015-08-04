@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hello Jekyll!"
+title:  "彩票技术博客简介"
 category: demo
 tags: [tech,introduce]
 ---

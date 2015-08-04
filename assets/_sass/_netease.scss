@@ -130,14 +130,22 @@ time.small {
   background-color: rgba($base07, $alpha * 5);
   border: 1px solid rgba($base08, $alpha);
   box-shadow: 0 1px 10px rgba($base08, $alpha * 2);
+  min-height:800px;
   .title {
   color: lighten($base03, 10%);
-    border-bottom: 2px dashed lighten($base03, 10%);
+    border-bottom: 3px ridge #aaa;
   a {
     color: lighten($base03, 10%);
     &:hover, &:focus {
       color: $base03;
     }
+	background-image: url("../img/ariticalTitleLogo.png");
+    background-repeat: repeat-y;
+    background-position: -10px 0;
+    margin-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+	border: 1px ridge black;
   }
   }
   p, ol, ul, table {
@@ -348,4 +356,16 @@ img {
 #search-loader {
   display: none;
   text-align: center;
+}
+.c_b_p_desc {
+    word-wrap: break-word;
+    word-break: break-all;
+    overflow: hidden;
+    line-height: 1.5;
+}
+.col-md-9 {
+    word-wrap: break-word;
+    word-break: break-all;
+    overflow: hidden;
+    line-height: 1.5;
 }

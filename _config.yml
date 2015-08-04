@@ -2,11 +2,11 @@
 title: "网易彩票技术博客"
 url: "//neteasecp.github.io/"
 highlighter: pygments
-paginate: 5
+paginate: 10
 author:
     name: Netease Caipiao
-    github:
-    email:
+    github: neteaseCp
+    email: 
     gitcafe:
     twitter:
     facebook:
